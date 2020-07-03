@@ -12,7 +12,7 @@ TARGET_BOOT_ANIMATION_RES_EVO := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := false
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
-# Inherit from RMX1921 device
+# Inherit from RMX1901 device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 PRODUCT_BRAND := Realme
