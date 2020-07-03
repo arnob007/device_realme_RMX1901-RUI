@@ -1,4 +1,4 @@
-# All unpinned blobs are from RMX1921EX_11_C.05
+# All unpinned blobs are from RMX1901EX_11_C.05
 
 # ACDB - Audio
 vendor/etc/acdbdata/19651/Bluetooth_cal.acdb
