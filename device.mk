@@ -347,7 +347,7 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    librecovery_updater_RMX1921
+    librecovery_updater_RMX1901
 
 # RenderScript
 PRODUCT_PACKAGES += \
@@ -396,7 +396,7 @@ PRODUCT_PACKAGES += \
 
 # Touch
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.RMX1921
+    vendor.lineage.touch@1.0-service.RMX1901
     
 # Trust HAL
 PRODUCT_PACKAGES += \
