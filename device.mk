@@ -99,6 +99,15 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor \
     Snap \
     vendor.qti.hardware.camera.device@1.0.vendor
+    
+# Camera Helper
+PRODUCT_PACKAGES += \
+    RealmeCameraHelper
+
+# camera Motor
+PRODUCT_PACKAGES += \
+    vendor.lineage.camera.motor@1.0-service.realme_sdm710
+
 
 # Context Hub
 PRODUCT_PACKAGES += \
