@@ -13,6 +13,10 @@ type proc_oppo_fp, fs_type, proc_type;
 # Camera
 type persist_camera_file, file_type;
 
+# Camera Motor
+type sysfs_motor, fs_type, sysfs_type;
+
+
 # Devinfo
 type proc_devinfo, fs_type, proc_type;
 
